@@ -1,0 +1,11 @@
+COLOR CODE:
+grass: 1C9900 (Green)
+grass_flower: FF0000 (Red)
+grass_rock: 0026FF (Blue)
+stone_brick: FFE900 (Yellow)
+stone_floor: FF00DC (Pink)
+bed: 82FFEC (LightBlue)
+road: 9B7B65 (LightBrown)
+door: FF5E73
+bookshelf: 8C4FFF
+dark: BLACK
